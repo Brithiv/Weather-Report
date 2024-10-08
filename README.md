@@ -48,6 +48,8 @@ Here are some of the statistical measures computed during the analysis:
 Although this version of the project focuses on statistical calculations, future iterations may include visualizations to present the data more intuitively.
 
 ## 🔗 How to Run the Project:
+
+https://drive.google.com/file/d/1LHinaVKkOtItxAGuRz-Ny3zsDrGumB-B/view?usp=sharing
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/weather-report.git
